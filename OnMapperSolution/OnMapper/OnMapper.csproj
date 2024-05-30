@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Version>1.1.9</Version>
+    <Authors>Moath Al-Makhlafi, Osama Dammag</Authors>
+    <PackageId>OnMapper</PackageId>
+    <Title>OnMapper</Title>
+    <Description>A package to save time and efforts to map Data Transfer Objects (DTOs) to and from database models for your application.</Description>
+    <PackageIcon>OnMapper.png</PackageIcon>
+    <PackageTags>Map, Mapping</PackageTags>
+    <PackAsTool>True</PackAsTool>
+    <ToolCommandName>OnMapper</ToolCommandName>
+    <Product>OnMapper</Product>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\Markdown_Notes\OnMapper.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

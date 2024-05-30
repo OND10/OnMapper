@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OnMapper/1.1.9": {
+        "runtime": {
+          "OnMapper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OnMapper/1.1.9": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

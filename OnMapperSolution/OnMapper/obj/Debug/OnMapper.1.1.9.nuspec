@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>OnMapper</id>
+    <version>1.1.9</version>
+    <title>OnMapper</title>
+    <authors>Moath Al-Makhlafi, Osama Dammag</authors>
+    <icon>OnMapper.png</icon>
+    <description>A package to save time and efforts to map Data Transfer Objects (DTOs) to and from database models for your application.</description>
+    <tags>Map, Mapping</tags>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+    <repository type="git" />
+  </metadata>
+  <files>
+    <file src="D:\visualstudiocodes\Csharp\OnMapperSolution\OnMapper\obj\DotnetToolSettings.xml" target="tools\net6.0\any\DotnetToolSettings.xml" />
+    <file src="D:\visualstudiocodes\Csharp\OnMapperSolution\OnMapper\bin\Debug\net6.0\publish\OnMapper.dll" target="tools\net6.0\any\OnMapper.dll" />
+    <file src="D:\visualstudiocodes\Csharp\OnMapperSolution\OnMapper\bin\Debug\net6.0\publish\OnMapper.deps.json" target="tools\net6.0\any\OnMapper.deps.json" />
+    <file src="D:\visualstudiocodes\Csharp\OnMapperSolution\OnMapper\bin\Debug\net6.0\publish\OnMapper.pdb" target="tools\net6.0\any\OnMapper.pdb" />
+    <file src="D:\Markdown_Notes\OnMapper.png" target="\OnMapper.png" />
+  </files>
+</package>

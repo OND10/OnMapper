@@ -1,0 +1,3 @@
+D:\visualstudiocodes\Csharp\OnMapperSolution\OnMapper\bin\Debug\net6.0\publish\OnMapper.dll
+D:\visualstudiocodes\Csharp\OnMapperSolution\OnMapper\bin\Debug\net6.0\publish\OnMapper.deps.json
+D:\visualstudiocodes\Csharp\OnMapperSolution\OnMapper\bin\Debug\net6.0\publish\OnMapper.pdb

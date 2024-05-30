@@ -1,0 +1,11 @@
+D:\visualstudiocodes\Csharp\OnMapperSolution\OnMapper\bin\Debug\net6.0\OnMapper.deps.json
+D:\visualstudiocodes\Csharp\OnMapperSolution\OnMapper\bin\Debug\net6.0\OnMapper.dll
+D:\visualstudiocodes\Csharp\OnMapperSolution\OnMapper\bin\Debug\net6.0\OnMapper.pdb
+D:\visualstudiocodes\Csharp\OnMapperSolution\OnMapper\obj\Debug\net6.0\OnMapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\visualstudiocodes\Csharp\OnMapperSolution\OnMapper\obj\Debug\net6.0\OnMapper.AssemblyInfoInputs.cache
+D:\visualstudiocodes\Csharp\OnMapperSolution\OnMapper\obj\Debug\net6.0\OnMapper.AssemblyInfo.cs
+D:\visualstudiocodes\Csharp\OnMapperSolution\OnMapper\obj\Debug\net6.0\OnMapper.csproj.CoreCompileInputs.cache
+D:\visualstudiocodes\Csharp\OnMapperSolution\OnMapper\obj\Debug\net6.0\OnMapper.dll
+D:\visualstudiocodes\Csharp\OnMapperSolution\OnMapper\obj\Debug\net6.0\refint\OnMapper.dll
+D:\visualstudiocodes\Csharp\OnMapperSolution\OnMapper\obj\Debug\net6.0\OnMapper.pdb
+D:\visualstudiocodes\Csharp\OnMapperSolution\OnMapper\obj\Debug\net6.0\ref\OnMapper.dll
