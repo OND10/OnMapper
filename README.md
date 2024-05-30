@@ -26,7 +26,7 @@
 OnMapper is available on [NuGet](https://www.nuget.org/packages/OnTube). Install the provider package. See the in the docs for additional downloads.
 
 ```sh
-dotnet add package OnMapper
+dotnet tool install --global OnMapper --version 1.1.9
 ```
 
 
